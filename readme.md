@@ -1,4 +1,5 @@
    Previsão de Preços de Passagens Aéreas
+   
 📌 1. Objetivo do Projeto
 
 Este projeto tem como objetivo desenvolver um modelo de Machine Learning capaz de prever o preço de passagens aéreas com base nas características do voo, como companhia aérea, duração, número de paradas e origem/destino.
