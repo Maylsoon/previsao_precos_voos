@@ -78,7 +78,7 @@ Maior dificuldade em prever valores extremos
 
 📊 8. Importância das Variáveis
 
-![importances](imagens/importances_final.png)
+![importances](imagens/import_final.png)
 
 As variáveis mais relevantes para o modelo foram:
 
