@@ -59,6 +59,8 @@ R²: 0.82
 MAE: ~1172
 RMSE: ~1907
 
+![comparacao_modelos](imagens/comparativo_modelos.png)
+
 👉 O modelo demonstrou boa capacidade de generalização na base de teste.
 
 📉 7. Análise de Erros
