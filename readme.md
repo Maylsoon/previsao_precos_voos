@@ -55,8 +55,11 @@ Remoção de feature rara (evitando overfitting localizado)
 Correção de pipeline (encoding consistente)
 
 📈 6. Resultados Finais
+
 R²: 0.82
+
 MAE: ~1172
+
 RMSE: ~1907
 
 ![comparacao_modelos](imagens/comparativo_modelos.png)
@@ -64,6 +67,9 @@ RMSE: ~1907
 👉 O modelo demonstrou boa capacidade de generalização na base de teste.
 
 📉 7. Análise de Erros
+
+![residuos](imagens/residuos_final.png)
+
 O modelo captura bem a tendência central dos dados
 Presença de heterocedasticidade:
 erros maiores em passagens mais caras
@@ -72,12 +78,13 @@ Maior dificuldade em prever valores extremos
 
 📊 8. Importância das Variáveis
 
+![importances](imagens/importances_final.png)
+
 As variáveis mais relevantes para o modelo foram:
 
-Duração total do voo
 Número de paradas
 Companhia aérea
-Data da viagem
+Duração total do voo
 
 👉 Indica que o preço está fortemente relacionado a características operacionais do voo.
 
